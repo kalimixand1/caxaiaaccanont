@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /snd.php
+Disallow: /snd1.php

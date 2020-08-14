@@ -1,0 +1,183 @@
+*{padding: 0;margin: 0;}
+body{background-color: #ffffff;}
+#hedr{
+	position: relative;
+	margin: 0 auto;
+	width: 828px;
+    height: 818px;
+    z-index: 1;
+    overflow: hidden;
+    background: url(../img/B1.png) no-repeat;
+    background-size: cover;}
+#hedr1{
+    position: relative;
+    margin: 0 auto;
+    width: 828px;
+    height: 818px;
+    z-index: 1;
+    overflow: hidden;
+    background: url(../img/B2.png) no-repeat;
+    background-size: cover;}
+#hedr2{
+    position: relative;
+    margin: 0 auto;
+    width: 828px;
+    height: 818px;
+    z-index: 1;
+    overflow: hidden;
+    background: url(../img/B3.png) no-repeat;
+    background-size: cover;}
+#hedr3{
+    position: relative;
+    margin: 0 auto;
+    width: 828px;
+    height: 818px;
+    z-index: 1;
+    overflow: hidden;
+    background: url(../img/B4.png) no-repeat;
+    background-size: cover;}
+ #hedr4{
+    position: relative;
+    margin: 0 auto;
+    width: 828px;
+    height: 920px;
+    z-index: 1;
+    overflow: hidden;
+    background: url(../img/B5.png) no-repeat;
+    background-size: cover;}
+ #hedr5{
+    position: relative;
+    margin: 0 auto;
+    width: 828px;
+    height: 818px;
+    z-index: 1;
+    overflow: hidden;
+    background: url(../img/B6.png) no-repeat;
+    background-size: cover;}
+
+.absolut{
+    position: absolute;
+}
+
+div#pot0{
+    top: 210px;
+    left: 500px;
+}
+div#put1 {
+    top: 230px;
+    left: 483px;
+}
+div#put2 {
+    top: 388px;
+    left: 368px;
+}
+div#put10{
+    top: 387px;
+    left: 366px;
+}
+div#put11{
+    top: 400px;
+    left: 392px;
+}
+div#put20{
+    top: 388px;
+    left: 244px;
+}
+div#put30{
+    top: 517px;
+    left: 244px;
+}
+div#pt3 {
+    top: 426px;
+    left: 344px;
+}
+div#pt4 {
+    top: 464px;
+    left: 344px;
+}
+div#pt5 {
+    top: 504px;
+    left: 336px;
+}
+div#pt6 {
+    top: 543px;
+    left: 344px;
+}
+div#pt7 {
+    top: 472px;
+    left: 436px;
+}
+div#pt8 {
+    top: 450px;
+    left: 342px;
+}
+div#pt9 {
+    top: 577px;
+    left: 342px;
+}
+div#put4 {
+    top: 246px;
+}
+div#put5 {
+    top: 326px;
+}
+div#put6 {
+    top: 486px;
+    left: 334px;
+}
+div#put3 {
+    top: 604px;
+    left: 436px;
+}
+div#pot1{
+    top: 282px;
+    left: 382px;
+}
+div#pot3{
+    top: 424px;
+    left: 982px;
+}
+div#pot4{
+    top: 615px;
+    left: 304px;
+}
+div#pot5{
+    top: 590px;
+    left: 500px;
+}
+input.put {
+    font-size: 13px;
+    height: 22px;
+    width: 90px;
+    background: transparent;
+    border: none;
+    overflow: hidden;
+}
+input.nput {
+    margin-right: 8px;
+    font-size: 13px;
+    height: 22px;
+    width: 203px;
+    background: transparent;
+    border: none;
+    overflow: hidden;
+}
+
+input.put:focus {
+    background-color: white;
+}
+*:focus {
+    outline: none;
+}
+
+select:not(.combo) {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url(../img/select.png) no-repeat 100% 50% #FFFFFF;
+    background-position: right 5px center;
+    border: 1px solid #cccccc;
+    border-radius: 0;
+    padding: 3px 24px 3px 6px;
+    cursor: pointer;
+}
